@@ -1,0 +1,83 @@
+[06-May-2022 17:18:09 Europe/Istanbul] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/sfpssite/public_html/APP/testMail.php on line 12
+[06-May-2022 17:18:09 Europe/Istanbul] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/sfpssite/public_html/APP/testMail.php on line 12
+[06-May-2022 17:18:09 Europe/Istanbul] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sfpssite/public_html/APP/testMail.php on line 12
+[06-May-2022 17:18:23 Europe/Istanbul] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/sfpssite/public_html/APP/testMail.php on line 10
+[06-May-2022 17:18:23 Europe/Istanbul] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/sfpssite/public_html/APP/testMail.php on line 10
+[06-May-2022 17:18:23 Europe/Istanbul] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sfpssite/public_html/APP/testMail.php on line 10
+[06-May-2022 17:18:24 Europe/Istanbul] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/sfpssite/public_html/APP/testMail.php on line 10
+[06-May-2022 17:18:24 Europe/Istanbul] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/sfpssite/public_html/APP/testMail.php on line 10
+[06-May-2022 17:18:24 Europe/Istanbul] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sfpssite/public_html/APP/testMail.php on line 10
+[06-May-2022 17:19:01 Europe/Istanbul] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/sfpssite/public_html/APP/testMail.php on line 16
+[06-May-2022 17:19:01 Europe/Istanbul] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/sfpssite/public_html/APP/testMail.php on line 16
+[06-May-2022 17:19:01 Europe/Istanbul] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sfpssite/public_html/APP/testMail.php on line 16
+[06-May-2022 17:21:42 Europe/Istanbul] PHP Notice:  Undefined variable: name in /home/sfpssite/public_html/APP/testMail.php on line 28
+[06-May-2022 17:21:42 Europe/Istanbul] PHP Notice:  Undefined variable: email in /home/sfpssite/public_html/APP/testMail.php on line 28
+[06-May-2022 17:21:42 Europe/Istanbul] PHP Notice:  Undefined variable: subject in /home/sfpssite/public_html/APP/testMail.php on line 28
+[06-May-2022 17:21:42 Europe/Istanbul] PHP Notice:  Undefined variable: message in /home/sfpssite/public_html/APP/testMail.php on line 28
+[06-May-2022 17:21:43 Europe/Istanbul] PHP Notice:  Undefined variable: name in /home/sfpssite/public_html/APP/testMail.php on line 28
+[06-May-2022 17:21:43 Europe/Istanbul] PHP Notice:  Undefined variable: email in /home/sfpssite/public_html/APP/testMail.php on line 28
+[06-May-2022 17:21:43 Europe/Istanbul] PHP Notice:  Undefined variable: subject in /home/sfpssite/public_html/APP/testMail.php on line 28
+[06-May-2022 17:21:43 Europe/Istanbul] PHP Notice:  Undefined variable: message in /home/sfpssite/public_html/APP/testMail.php on line 28
+[06-May-2022 17:24:13 Europe/Istanbul] PHP Notice:  Undefined variable: name in /home/sfpssite/public_html/APP/testMail.php on line 36
+[06-May-2022 17:24:13 Europe/Istanbul] PHP Notice:  Undefined variable: email in /home/sfpssite/public_html/APP/testMail.php on line 36
+[06-May-2022 17:24:13 Europe/Istanbul] PHP Notice:  Undefined variable: subject in /home/sfpssite/public_html/APP/testMail.php on line 36
+[06-May-2022 17:24:13 Europe/Istanbul] PHP Notice:  Undefined variable: message in /home/sfpssite/public_html/APP/testMail.php on line 36
+[06-May-2022 17:35:34 Europe/Istanbul] PHP Warning:  require(APP/system/mailler/class.phpmailer.php): failed to open stream: No such file or directory in /home/sfpssite/public_html/APP/testMail.php on line 21
+[06-May-2022 17:35:34 Europe/Istanbul] PHP Warning:  require(APP/system/mailler/class.phpmailer.php): failed to open stream: No such file or directory in /home/sfpssite/public_html/APP/testMail.php on line 21
+[06-May-2022 17:35:34 Europe/Istanbul] PHP Fatal error:  require(): Failed opening required 'APP/system/mailler/class.phpmailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sfpssite/public_html/APP/testMail.php on line 21
+[06-May-2022 17:35:50 Europe/Istanbul] PHP Warning:  trim() expects parameter 1 to be string, object given in /home/sfpssite/public_html/APP/system/mailler/class.phpmailer.php on line 663
+[06-May-2022 17:36:11 Europe/Istanbul] PHP Warning:  trim() expects parameter 1 to be string, object given in /home/sfpssite/public_html/APP/system/mailler/class.phpmailer.php on line 663
+[06-May-2022 17:36:12 Europe/Istanbul] PHP Warning:  trim() expects parameter 1 to be string, object given in /home/sfpssite/public_html/APP/system/mailler/class.phpmailer.php on line 663
+[06-May-2022 17:36:13 Europe/Istanbul] PHP Warning:  trim() expects parameter 1 to be string, object given in /home/sfpssite/public_html/APP/system/mailler/class.phpmailer.php on line 663
+[06-May-2022 17:36:13 Europe/Istanbul] PHP Warning:  trim() expects parameter 1 to be string, object given in /home/sfpssite/public_html/APP/system/mailler/class.phpmailer.php on line 663
+[06-May-2022 17:36:13 Europe/Istanbul] PHP Warning:  trim() expects parameter 1 to be string, object given in /home/sfpssite/public_html/APP/system/mailler/class.phpmailer.php on line 663
+[06-May-2022 17:36:14 Europe/Istanbul] PHP Warning:  trim() expects parameter 1 to be string, object given in /home/sfpssite/public_html/APP/system/mailler/class.phpmailer.php on line 663
+[06-May-2022 17:36:14 Europe/Istanbul] PHP Warning:  trim() expects parameter 1 to be string, object given in /home/sfpssite/public_html/APP/system/mailler/class.phpmailer.php on line 663
+[06-May-2022 17:36:14 Europe/Istanbul] PHP Warning:  trim() expects parameter 1 to be string, object given in /home/sfpssite/public_html/APP/system/mailler/class.phpmailer.php on line 663
+[06-May-2022 17:36:38 Europe/Istanbul] PHP Warning:  trim() expects parameter 1 to be string, object given in /home/sfpssite/public_html/APP/system/mailler/class.phpmailer.php on line 663
+[06-May-2022 17:36:56 Europe/Istanbul] PHP Warning:  trim() expects parameter 1 to be string, object given in /home/sfpssite/public_html/APP/system/mailler/class.phpmailer.php on line 663
+[06-May-2022 17:36:57 Europe/Istanbul] PHP Warning:  trim() expects parameter 1 to be string, object given in /home/sfpssite/public_html/APP/system/mailler/class.phpmailer.php on line 663
+[06-May-2022 17:37:12 Europe/Istanbul] PHP Warning:  trim() expects parameter 1 to be string, object given in /home/sfpssite/public_html/APP/system/mailler/class.phpmailer.php on line 663
+[06-May-2022 17:37:13 Europe/Istanbul] PHP Warning:  trim() expects parameter 1 to be string, object given in /home/sfpssite/public_html/APP/system/mailler/class.phpmailer.php on line 663
+[06-May-2022 17:37:29 Europe/Istanbul] PHP Warning:  trim() expects parameter 1 to be string, object given in /home/sfpssite/public_html/APP/system/mailler/class.phpmailer.php on line 663
+[06-May-2022 17:37:29 Europe/Istanbul] PHP Warning:  trim() expects parameter 1 to be string, object given in /home/sfpssite/public_html/APP/system/mailler/class.phpmailer.php on line 663
+[06-May-2022 17:37:55 Europe/Istanbul] PHP Warning:  trim() expects parameter 1 to be string, object given in /home/sfpssite/public_html/APP/testMail.php on line 40
+[06-May-2022 17:38:08 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Object of class PHPMailer could not be converted to string in /home/sfpssite/public_html/APP/testMail.php:40
+Stack trace:
+#0 /home/sfpssite/public_html/APP/testMail.php(57): mailGonder('test maili 1 2 ...')
+#1 {main}
+  thrown in /home/sfpssite/public_html/APP/testMail.php on line 40
+[06-May-2022 17:38:20 Europe/Istanbul] PHP Warning:  trim() expects parameter 1 to be string, object given in /home/sfpssite/public_html/APP/system/mailler/class.phpmailer.php on line 663
+[06-May-2022 17:38:29 Europe/Istanbul] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/sfpssite/public_html/APP/system/mailler/class.phpmailer.php on line 663
+[06-May-2022 17:39:00 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Object of class PHPMailer could not be converted to string in /home/sfpssite/public_html/APP/testMail.php:40
+Stack trace:
+#0 /home/sfpssite/public_html/APP/testMail.php(57): mailGonder('test maili 1 2 ...')
+#1 {main}
+  thrown in /home/sfpssite/public_html/APP/testMail.php on line 40
+[06-May-2022 17:39:01 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Object of class PHPMailer could not be converted to string in /home/sfpssite/public_html/APP/testMail.php:40
+Stack trace:
+#0 /home/sfpssite/public_html/APP/testMail.php(57): mailGonder('test maili 1 2 ...')
+#1 {main}
+  thrown in /home/sfpssite/public_html/APP/testMail.php on line 40
+[06-May-2022 17:39:02 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Object of class PHPMailer could not be converted to string in /home/sfpssite/public_html/APP/testMail.php:40
+Stack trace:
+#0 /home/sfpssite/public_html/APP/testMail.php(57): mailGonder('test maili 1 2 ...')
+#1 {main}
+  thrown in /home/sfpssite/public_html/APP/testMail.php on line 40
+[06-May-2022 17:39:06 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Object of class PHPMailer could not be converted to string in /home/sfpssite/public_html/APP/testMail.php:40
+Stack trace:
+#0 /home/sfpssite/public_html/APP/testMail.php(57): mailGonder('test maili 1 2 ...')
+#1 {main}
+  thrown in /home/sfpssite/public_html/APP/testMail.php on line 40
+[06-May-2022 17:39:48 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function mailGonder() in /home/sfpssite/public_html/APP/testMail.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/sfpssite/public_html/APP/testMail.php on line 20
+[06-May-2022 17:40:01 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function mailGonder() in /home/sfpssite/public_html/APP/testMail.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/sfpssite/public_html/APP/testMail.php on line 20
+[06-May-2022 17:43:20 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function mailGonder() in /home/sfpssite/public_html/APP/data.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/sfpssite/public_html/APP/data.php on line 3
